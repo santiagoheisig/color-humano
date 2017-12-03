@@ -1,0 +1,11 @@
+.logo{
+    font-family: 'Poiret One', cursive;
+    color:#444;
+    text-align: center;
+    font-size:70px;
+    position: fixed;
+    top: 47%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
